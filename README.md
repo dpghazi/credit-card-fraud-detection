@@ -16,4 +16,4 @@ transaction as fraudulent or non-fraudulent.
 * Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras)
 
 ## Featured Notebook
-* [Credit Card Fraud Detection](https://dpghazi.github.io/projects/credit-card-fraud-detection.html)
+* [Credit Card Fraud Detection](https://dpghazi-berkeley-ds.s3.amazonaws.com/credit-card-fraud-detection.html)
